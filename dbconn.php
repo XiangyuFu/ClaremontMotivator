@@ -26,4 +26,6 @@ function perform_query( $dbc, $query ){
 	return $result;
 }
 
+//test for git line 1
 ?>
+
